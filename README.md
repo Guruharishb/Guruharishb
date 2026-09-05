@@ -1,4 +1,4 @@
-# Hey, I'm Guruharish B
+# 👋 Hey, I'm Guruharish B
 
 ### `Software Engineer in the Making • Full-Stack Developer • Problem Solver`
 
@@ -10,47 +10,47 @@ Currently sharpening my skills in **DSA, Full-Stack Development, Backend Enginee
 
 ---
 
-## My Engineering DNA
+## 🧬 My Engineering DNA
 
 ```text
 Think → Design → Build → Break → Debug → Optimize → Ship
 ```
 
-**Problem Solver** — Turning complex problems into clean algorithms
-**Builder** — From idea → architecture → working product
-**Full-Stack Explorer** — Frontend, backend, databases & infrastructure
-**AI Enthusiast** — Experimenting with computer vision and intelligent systems
-**Scalability Mindset** — Learning how systems handle real-world traffic
+🧠 **Problem Solver** — Turning complex problems into clean algorithms
+⚙️ **Builder** — From idea → architecture → working product
+🌐 **Full-Stack Explorer** — Frontend, backend, databases & infrastructure
+🤖 **AI Enthusiast** — Experimenting with computer vision and intelligent systems
+📈 **Scalability Mindset** — Learning how systems handle real-world traffic
 
 ---
 
-## Tech Arsenal
+## 🛠️ Tech Arsenal
 
-### Languages
+### 💻 Languages
 
 `Java` `Python` `JavaScript` `C`
 
-### Frontend
+### 🎨 Frontend
 
 `React.js` `HTML` `CSS`
 
-### Backend & Database
+### ⚙️ Backend & Database
 
 `Node.js` `Express.js` `MongoDB` `MySQL` `REST APIs`
 
-### Infrastructure & Tools
+### 🔧 Infrastructure & Tools
 
 `Git` `GitHub` `NGINX`
 
-### Core Computer Science
+### 🧩 Core Computer Science
 
 `Data Structures & Algorithms` `OOP` `DBMS` `Operating Systems`
 
 ---
 
-## Things I've Built
+## 🚀 Things I've Built
 
-### AI + IoT Drainage Monitoring System
+### 🛰️ AI + IoT Drainage Monitoring System
 
 **Real-Time Environmental Monitoring using YOLOv5**
 
@@ -61,14 +61,14 @@ A smart monitoring system combining **IoT sensors + Computer Vision** to detect 
 
 **Highlights**
 
-* Continuous field monitoring using IoT sensors
-* Real-time blockage detection using YOLOv5
-* Automated alerts for hazardous conditions
-* Combined hardware sensing with AI-based vision
+* 📡 Continuous field monitoring using IoT sensors
+* 👁️ Real-time blockage detection using YOLOv5
+* 🚨 Automated alerts for hazardous conditions
+* 🔗 Combined hardware sensing with AI-based vision
 
 ---
 
-### NGINX Dynamic Load Balancer
+### ⚖️ NGINX Dynamic Load Balancer
 
 **Traffic Distribution & Backend Scalability**
 
@@ -79,17 +79,17 @@ Built a dynamic load-balancing system capable of distributing incoming traffic a
 
 **Highlights**
 
-* Distributed requests across backend servers
-* Health checks for backend availability
-* Reverse proxy architecture
-* Caching for improved performance
-* Monitoring dashboard
+* 🔀 Distributed requests across backend servers
+* ❤️ Health checks for backend availability
+* 🌐 Reverse proxy architecture
+* ⚡ Caching for improved performance
+* 📊 Monitoring dashboard
 
 > **Goal:** Understand what happens behind the API when thousands of requests arrive at the same time.
 
 ---
 
-### MERN Business Management System
+### 🧾 MERN Business Management System
 
 Built a client-focused application for managing a real-world printing business.
 
@@ -98,35 +98,35 @@ Built a client-focused application for managing a real-world printing business.
 
 **Features**
 
-* Inventory management
-* Sales management
-* Billing
-* Customer records
-* Credit tracking
-* Outstanding balance and payment history
+* 📦 Inventory management
+* 💰 Sales management
+* 🧾 Billing
+* 👥 Customer records
+* 💳 Credit tracking
+* 📊 Outstanding balance and payment history
 
 > **Real client → Real requirements → Real feedback → Real product**
 
 ---
 
-## Problem Solving
+## 🧠 Problem Solving
 
 I enjoy solving algorithmic problems because every problem is an opportunity to think differently.
 
-### Coding Milestones
+### 🏆 Coding Milestones
 
-* **360+** LeetCode problems
-* **1000+** Skillrack problems
-* **200+** additional problems across coding platforms
+* 🔥 **360+** LeetCode problems
+* ⚡ **1000+** Skillrack problems
+* 💡 **200+** additional problems across coding platforms
 
-My focus areas:
+### Areas I Practice
 
 `Arrays` `Strings` `Hashing` `Two Pointers` `Sliding Window`
 `Binary Search` `Greedy` `Recursion` `Trees` `Graphs` `Dynamic Programming`
 
 ---
 
-## Currently Leveling Up
+## 🎯 Currently Leveling Up
 
 ```diff
 + Data Structures & Algorithms
@@ -134,23 +134,23 @@ My focus areas:
 + System Design
 + Scalable Architecture
 + AI / Computer Vision
-+ Cloud & DevOps fundamentals
++ Cloud & DevOps Fundamentals
 ```
 
 I'm particularly interested in understanding **how software works beyond the code** — architecture, performance, scalability, networking, and reliability.
 
 ---
 
-## Let's Connect
+## 🤝 Let's Connect
 
-**Email:** [guruharishb7@gmail.com](mailto:guruharishb7@gmail.com)
-**LinkedIn:** [www.linkedin.com/in/guruharishb](http://www.linkedin.com/in/guruharishb)
-**GitHub:** github.com/Guruharishb
+📧 **Email:** [guruharishb7@gmail.com](mailto:guruharishb7@gmail.com)
+💼 **LinkedIn:** [www.linkedin.com/in/guruharishb](http://www.linkedin.com/in/guruharishb)
+💻 **GitHub:** github.com/Guruharishb
 
 ---
 
 <p align="center">
 
-### `Code. Learn. Build. Scale. Repeat.`
+### 🚀 `Code. Learn. Build. Scale. Repeat.`
 
 </p>
